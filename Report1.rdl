@@ -367,7 +367,7 @@ FROM            DimCustomer INNER JOIN
             <Width>5in</Width>
             <ZIndex>1</ZIndex>
             <Style>
-              <BackgroundColor>SeaGreen</BackgroundColor>
+              <BackgroundColor>Turquoise</BackgroundColor>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
               <PaddingTop>2pt</PaddingTop>
